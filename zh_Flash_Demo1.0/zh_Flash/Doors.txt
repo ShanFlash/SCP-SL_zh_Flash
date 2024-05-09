@@ -1,0 +1,10 @@
+<color=green><size=45>┃◇┃</size>\n<size=30>已开启</size></size></color>
+<color=#07A2FF><size=45>┃◆┃</size>\n<size=30>已关闭</size></size></color>
+<color=orange><size=45>┃⇆┃</size>\n<size=30>移动中</size></color>
+<color=red><size=45>┃🔒┃</size>\n</color>
+<color=red><size=45>┃💥┃</size></color>
+<color=red><size=45>┃❌┃</size></color>
+<color=green><size=45>┃✔┃</size></color>
+<color=#07A2FF><size=45>┃💳┃</size></color>
+<color=orange><size=45>┃⬆️┃</size></color>
+<color=orange><size=45>┃⛔┃</size></color>

@@ -1,0 +1,19 @@
+<b><color=#FFFFFF>本回合结束！</color></b>
+<color=#FF0000>SCP获胜</color>
+<color=#0096FF>基金会获胜</color>
+<color=#008F1C>分裂者获胜</color>
+<color=#FFFFFF>陷入僵局</color>
+<b><color=#FF0000>SCP</color>项目侵占了设施。应急响应方案已紧急启动。</b>
+<b>所有安全威胁都已被无效化，<color=#0096FF>Site-02</color>又恢复了安全。</b>
+<b>基金会安保势力被彻底消灭。<color=#008F1C>混沌分裂者</color>们随时待命准备出动。</b>
+<b><color=#0096FF>Site-02</color>基本得到控制，但也为此付出了一定代价。最终的赢家难下定论。</b>
+<b>[summary_d_escaped] 名<color=#FF8E00>D级人员</color>逃离设施</b>
+<b>[summary_s_escaped] 名<color=#FFFF7C>科学家</color>逃离设施</b>
+<b><color=#FF4545>Alpha核弹头</color>共了结了 [summary_warhead_kills] 条人命。</b>
+<b><color=#FF4545>Alpha核弹头</color>并未在本回合中使用。</b>
+<b>此次行动共花费 [summary_round_minutes]</color> 分 [summary_round_seconds]</color> 秒。</b>
+<b>共消灭了 [summary_scp_terminated] 个<color=#FF0000>SCP</color></b>
+<b>下回合游戏将在 [summary_next_round_countdown]</color> 秒后开始。</b>
+<b><color=#FF0000>SCP</color>共计杀死了 [summary_scpfrags] 名人类。</b>
+<color=#FF59CA>火烈鸟获胜</color>
+<b>其它的阵营都全军覆没了。<color=#FF59CA>火烈鸟</color>们取得了完全的胜利。</b>

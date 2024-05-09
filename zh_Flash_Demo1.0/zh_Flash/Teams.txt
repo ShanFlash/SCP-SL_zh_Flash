@@ -1,0 +1,7 @@
+<color=#FF0000>SCP项目</color>
+<color=#0096FF>基金会势力</color>
+<color=#008F1C>混沌分裂者</color>
+<color=#FFFF7C>科学家</color>
+<color=#FF8E00>D级人员</color>
+<color=#FFFFFF>死亡数</color>
+<color=#FF00B0>无阵营</color>

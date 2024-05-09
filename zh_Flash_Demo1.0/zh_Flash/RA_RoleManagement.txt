@@ -1,0 +1,28 @@
+<color=#FFFFFF>无</color>
+<color=#660000>S</color><color=#800000>C</color><color=#990000>P</color><color=#B30000>-</color><color=#CC0000>1</color><color=#E60000>7</color><color=#FF0000>3</color>
+<color=#FF8E00>D级人员</color>
+<color=#FFFFFF>观察者</color>
+<color=#660000>S</color><color=#800000>C</color><color=#990000>P</color><color=#B30000>-</color><color=#CC0000>1</color><color=#E60000>0</color><color=#FF0000>6</color>
+<color=#0096FF>九尾狐 收容专家</color>
+<color=#660000>S</color><color=#800000>C</color><color=#990000>P</color><color=#B30000>-</color><color=#CC0000>0</color><color=#E60000>4</color><color=#FF0000>9</color>
+<color=#FFFF7C>科学家</color>
+<color=#660000>S</color><color=#800000>C</color><color=#990000>P</color><color=#B30000>-</color><color=#CC0000>0</color><color=#E60000>7</color><color=#FF0000>9</color>
+<color=#008F1C>混沌分裂者 征召兵</color>
+<color=#660000>S</color><color=#800000>C</color><color=#990000>P</color><color=#B30000>-</color><color=#CC0000>0</color><color=#E60000>9</color><color=#FF0000>6</color>
+<color=#660000>S</color><color=#820000>C</color><color=#940000>P</color><color=#A60000>-</color><color=#B80000>0</color><color=#C90000>4</color><color=#DB0000>9</color><color=#ED0000>-</color><color=#FF0000>2</color>
+<color=#0096FF>九尾狐 中士</color>
+<color=#003DCA>九尾狐 指挥官</color>
+<color=#70C3FF>九尾狐 列兵</color>
+<color=#FF00B0>教程角色</color>
+<color=#5B6370>设施警卫</color>
+<color=#660000>S</color><color=#800000>C</color><color=#990000>P</color><color=#B30000>-</color><color=#CC0000>9</color><color=#E60000>3</color><color=#FF0000>9</color>
+<color=#FFFFFF>自定义角色</color>
+<color=#008F1C>混沌分裂者 步枪兵</color>
+<color=#008F1C>混沌分裂者 掠夺者</color>
+<color=#008F1C>混沌分裂者 压制者</color>
+<color=#00FFFF>监管模式</color>
+<color=#3D3D3D>导演模式</color>
+<color=#660000>S</color><color=#780000>C</color><color=#8C0000>P</color><color=#A60000>-</color><color=#BA0000>3</color><color=#D10000>1</color><color=#E80000>1</color><color=#FF0000>4</color>
+<color=#4D1B3D>S</color><color=#662451>C</color><color=#802D65>P</color><color=#993579>-</color><color=#B33E8D>1</color><color=#CC47A2>5</color><color=#E650B6>0</color><color=#FF59CA>7</color>
+<color=#3D1430>S</color><color=#4D193C>C</color><color=#5C1E48>P</color><color=#6B2354>-</color><color=#7A2860>1</color><color=#8A2D6C>5</color><color=#993278>0</color><color=#A83784>7</color><color=#B83C90>-</color><color=#C7419C>阿</color><color=#D646A8>尔</color><color=#E94CB7>法</color>
+<color=#660000>S</color><color=#750000>C</color><color=#850000>P</color><color=#940000>-</color><color=#A10000>1</color><color=#AD0000>5</color><color=#BD0000>0</color><color=#C90000>7</color><color=#D90000>-</color><color=#E80000>0</color><color=#F50000>4</color><color=#FF0000>9</color>
