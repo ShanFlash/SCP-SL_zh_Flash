@@ -21,9 +21,9 @@
 
 1. 在本项目首页找到"Releases"并点击进入
 
-2. 完成上一步骤后在"简体中文-Flash"的下面点击"zh_Flash_xxx"下载.zip的压缩包
+2. 完成上一步骤后在标题为"简体中文-Flash_xxx"的下面点击"zh_Flash_xxx"下载后缀为.zip的压缩包
 
-3. 将"zh_Flash"文件夹拖拽至游戏根目录中的"Translations"文件夹内
+3. 解压压缩包后将"zh_Flash"文件夹拖拽至游戏根目录中的"Translations"文件夹内
 
 4. 之后启动游戏在语言选项找到"简体中文-Flash"应该并重启游戏即可
 
