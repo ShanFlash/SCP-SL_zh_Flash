@@ -1,4 +1,4 @@
-# SCP-SL_zh_Flash
+# SCP Secret Laboratory 简体中文-原版重置
 翻译包介绍
 
 名称：简体中文-原版重置-F
