@@ -1,5 +1,10 @@
 # SCP : SL 简体中文-原版重置（ZH_FLASH）
-翻译包介绍
+
+![ZH_FLASH_LOGO](https://telegraph-image-55w.pages.dev/file/56e3b158353052236f77f.png)
+
+## 翻译包介绍
+
+
 
 名称：简体中文-原版重置-F
 
