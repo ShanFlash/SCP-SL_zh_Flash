@@ -13,9 +13,11 @@
 
 ## 翻译包预览
 
+### 门禁触控面板
 
+- 常规门关闭
 
-
+![常规门关闭](https://telegraph-image-55w.pages.dev/file/8f38745c72f6f080ae924.png)
 
 
 使用方法
