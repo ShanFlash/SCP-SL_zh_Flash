@@ -28,5 +28,6 @@
 4. 之后启动游戏在语言选项找到"简体中文-Flash"应该并重启游戏即可
 
 注意：本翻译包为完全独立的一个翻译包，不用覆盖原版的翻译包文件
-<span style="color:red">红色文本</span>
-<span style="color:blue">蓝色文本</span>
+<span style="color:#ff0000">红色文本</span>
+<span style="color:#00ff00">绿色文本</span>
+<span style="color:#0000ff">蓝色文本</span>
