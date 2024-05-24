@@ -5,7 +5,7 @@
 ## 翻译包介绍
 
 - 翻译包名称：简体中文-原版重置 (ZH-FLASH)
-- 翻译包作者：是闪闪闪闪闪（[点击前往bilibili主页](https://space.bilibili.com/545576624)）
+- 翻译包作者：是闪闪闪闪闪（**[点击前往作者bilibili主页](https://space.bilibili.com/545576624)**）
 - 
 
 1. 本翻译包是基于游戏《SCP Secret Laboratory》的官方简体中文翻译包进行修改的,其主要内容为重新排版与字体美化.
