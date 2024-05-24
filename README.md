@@ -13,15 +13,29 @@
 
 ## 翻译包预览
 
-### 常规门关闭
+- 常规门关闭时
 
-![常规门关闭](https://telegraph-image-55w.pages.dev/file/8f38745c72f6f080ae924.png)
+![常规门关闭时](https://telegraph-image-55w.pages.dev/file/8f38745c72f6f080ae924.png)
 
-### 常规门移动
+- 常规门移动时
 
-![常规门移动](https://telegraph-image-55w.pages.dev/file/20118f8e47ff5866d495e.png)
+![常规门移动时](https://telegraph-image-55w.pages.dev/file/20118f8e47ff5866d495e.png)
 
-### 常规门开启
+- 常规门开启时
+
+![常规门开启时](https://telegraph-image-55w.pages.dev/file/a4027595135431175f9d2.png)
+
+- 权限门关闭时
+
+![权限门关闭时](https://telegraph-image-55w.pages.dev/file/9114f345f108e71cba4b7.png)
+
+- 权限门拒绝访问时
+
+![权门拒绝访问时](https://telegraph-image-55w.pages.dev/file/245c13ba7377e8cbef14e.png)
+
+- 权限门允许访问时
+
+![权限门允许访问时](https://telegraph-image-55w.pages.dev/file/42bcc487cda2d90b84e1f.png)
 
 使用方法
 
