@@ -37,6 +37,18 @@
 
 ![权限门允许访问时](https://telegraph-image-55w.pages.dev/file/42bcc487cda2d90b84e1f.png)
 
+- ALPHA核弹关闭时
+
+![ALPHA核弹关闭时](https://telegraph-image-55w.pages.dev/file/76fbd8e3cdb124d330ece.png)
+
+- ALPHA核弹开启时
+
+![ALPHA核弹开启时](https://telegraph-image-55w.pages.dev/file/ae4f5ba89f1024dfab3fe.png)
+
+- ALPHA核弹重启时
+
+![ALPHA核弹重启时](https://telegraph-image-55w.pages.dev/file/62c2a509cd5e9db6b9b21.png)
+
 使用方法
 
 1. 在本项目首页找到"Releases"并点击进入
