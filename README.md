@@ -56,7 +56,7 @@
 
 - 权限门拒绝访问时
 
-![权门拒绝访问时](https://telegraph-image-55w.pages.dev/file/245c13ba7377e8cbef14e.png)
+![权限门拒绝访问时](https://telegraph-image-55w.pages.dev/file/245c13ba7377e8cbef14e.png)
 
 - 权限门允许访问时
 
