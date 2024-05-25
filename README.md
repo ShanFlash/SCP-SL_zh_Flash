@@ -60,7 +60,6 @@
 - 枪械配置工作站界面
 
 ![枪械配置工作站界面](https://telegraph-image-55w.pages.dev/file/158d64398f0e6ae7256b2.png)
-
 > 暂时只展示这么多,更详细的请前往游戏内体验.
 
 使用方法
