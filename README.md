@@ -76,15 +76,15 @@
 
 - 枪械配置工作站待机时
 
-![枪械配置工作站待机时](https://telegraph-image-55w.pages.dev/file/80b8b4fc9e61c9eb53b55.png)
+![枪械配置工作站待机时](https://i0.hdslb.com/bfs/article/d577b81410e7111a3333d8a22988a49a545576624.png@1256w_708h_!web-article-pic.avif)
 
 - 枪械配置工作站可用时
 
-![枪械配置工作站可用时](https://telegraph-image-55w.pages.dev/file/f3fb3b3d8ca20a93060ee.png)
+![枪械配置工作站可用时](https://i0.hdslb.com/bfs/article/08cffa250728e0b4312529a9be0356d1545576624.png@1256w_708h_!web-article-pic.avif)
 
 - 枪械配置工作站界面
 
-![枪械配置工作站界面](https://telegraph-image-55w.pages.dev/file/158d64398f0e6ae7256b2.png)
+![枪械配置工作站界面](https://i0.hdslb.com/bfs/article/784fb2e9f890e18df9c0ed3e526b78c1545576624.png@1256w_708h_!web-article-pic.avif)
 > 暂时只展示这么多,更详细的内容请前往游戏内体验.
 
 
