@@ -1,4 +1,0 @@
-<size=250><b><color=red>[</color><color=red> - ☢️ - </color><color=red>]</color></b></size><size=100>\n <color=#0096FF><b>ALPHA - 核弹头 -</b></color> <color=red><b>已 关 闭</b></color></size> 
-<size=250><color=yellow>[</color><color=yellow><b> - ☢️ - </b></color><color=yellow>]</color></size><size=100>\n <color=#0096FF><b>ALPHA - 核弹头 -</b></color> <color=yellow><b>重 启 中</b></color></size> 
-<size=250><color=lime>[</color><color=lime><b> - ☢️ - </b></color><color=lime>]</color></size><size=100>\n <color=#0096FF><b>ALPHA - 核弹头 -</b></color> <color=lime><b>已 就 绪</b></color></size> 
-<size=90>☢️  起爆程序无法终止  ☢️</size>
