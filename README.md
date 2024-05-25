@@ -40,39 +40,39 @@
 
 - 常规门关闭时
 
-![常规门关闭时](https://telegraph-image-55w.pages.dev/file/8f38745c72f6f080ae924.png)
+![常规门关闭时](https://i0.hdslb.com/bfs/article/f272d2389726799ebbe823c16e513121545576624.png@1256w_708h_!web-article-pic.avif)
 
 - 常规门移动时
 
-![常规门移动时](https://telegraph-image-55w.pages.dev/file/20118f8e47ff5866d495e.png)
+![常规门移动时](https://i0.hdslb.com/bfs/article/e425dfc74b428c023cbc929ffa8aca44545576624.png@1256w_708h_!web-article-pic.avif)
 
 - 常规门开启时
 
-![常规门开启时](https://telegraph-image-55w.pages.dev/file/a4027595135431175f9d2.png)
+![常规门开启时](https://i0.hdslb.com/bfs/article/6cbf5f93e5e3f11b013354f037014643545576624.png@1256w_708h_!web-article-pic.avif)
 
 - 权限门关闭时
 
-![权限门关闭时](https://telegraph-image-55w.pages.dev/file/9114f345f108e71cba4b7.png)
+![权限门关闭时](https://i0.hdslb.com/bfs/article/0d184bbf977de8e922bacbd9dcae046d545576624.png@1256w_708h_!web-article-pic.avif)
 
 - 权限门拒绝访问时
 
-![权限门拒绝访问时](https://telegraph-image-55w.pages.dev/file/245c13ba7377e8cbef14e.png)
+![权限门拒绝访问时](https://i0.hdslb.com/bfs/article/b5d324557ce13cae4f67d0e4ffacedaa545576624.png@1256w_708h_!web-article-pic.avif)
 
 - 权限门允许访问时
 
-![权限门允许访问时](https://telegraph-image-55w.pages.dev/file/42bcc487cda2d90b84e1f.png)
+![权限门允许访问时](https://i0.hdslb.com/bfs/article/feff5c703b35b405ecfff7f137df743c545576624.png@1256w_708h_!web-article-pic.avif)
 
 - ALPHA核弹关闭时
 
-![ALPHA核弹关闭时](https://telegraph-image-55w.pages.dev/file/76fbd8e3cdb124d330ece.png)
+![ALPHA核弹关闭时](https://i0.hdslb.com/bfs/article/77afad8f76fb65726b50a8cded0bc8ad545576624.png@1256w_708h_!web-article-pic.avif)
 
 - ALPHA核弹开启时
 
-![ALPHA核弹开启时](https://telegraph-image-55w.pages.dev/file/ae4f5ba89f1024dfab3fe.png)
+![ALPHA核弹开启时](https://i0.hdslb.com/bfs/article/6b49c7463f861ebb4b3cbc1113b6104f545576624.png@1256w_708h_!web-article-pic.avif)
 
 - ALPHA核弹重启时
 
-![ALPHA核弹重启时](https://telegraph-image-55w.pages.dev/file/62c2a509cd5e9db6b9b21.png)
+![ALPHA核弹重启时](https://i0.hdslb.com/bfs/article/0b15141356ca4302a8b2896018c2d400545576624.png@1256w_708h_!web-article-pic.avif)
 
 - 枪械配置工作站待机时
 
