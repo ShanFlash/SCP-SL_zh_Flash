@@ -49,6 +49,20 @@
 
 ![ALPHA核弹重启时](https://telegraph-image-55w.pages.dev/file/62c2a509cd5e9db6b9b21.png)
 
+- 枪械配置工作站待机时
+
+![枪械配置工作站待机时](https://telegraph-image-55w.pages.dev/file/80b8b4fc9e61c9eb53b55.png)
+
+- 枪械配置工作站可用时
+
+![枪械配置工作站可用时](https://telegraph-image-55w.pages.dev/file/f3fb3b3d8ca20a93060ee.png)
+
+- 枪械配置工作站界面
+
+![枪械配置工作站界面](https://telegraph-image-55w.pages.dev/file/158d64398f0e6ae7256b2.png)
+
+> 暂时只展示这么多,更详细的请前往游戏内体验.
+
 使用方法
 
 1. 在本项目首页找到"Releases"并点击进入
