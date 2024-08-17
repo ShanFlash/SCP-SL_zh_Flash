@@ -26,8 +26,13 @@
 ## 下载与使用方法
 
 ### 自动下载
-- 左键单击即可下载
-  - [**简体中文-原版重置-测试版3.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH-FLASH-Demo3.0.0/ZH_FLASH_Demo_3.0.zip)
+> 左键单击即可下载（带"New"的为当前最新版）
+- **简体中文-原版重置-测试版**
+  - [**简体中文-原版重置-测试版3.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH-FLASH-Demo3.0.0/ZH_FLASH_Demo_3.0.zip) New
+  - [**简体中文-原版重置-测试版2.1.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH-FLASH-Demo2.1.0/ZH_FLASH_Demo_2.1.zip)
+  - [**简体中文-原版重置-测试版2.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH-FLASH-Demo2.0.0/ZH_FLASH_Demo_2.0.zip)
+  - [**简体中文-原版重置-测试版1.5.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH__FLASH_Demo1.5/ZH_FLASH_Demo_1.5.zip)
+  - [**简体中文-原版重置-测试版1.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH_FLASH_Demo1.0/ZH-FLASH_Demo_1.0.zip)
  
 ### 手动下载
 1. 在本项目首页找到"Releases"点击并进入.（**[实在找不到点击此处直接进入](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases)**）
