@@ -35,7 +35,7 @@
   - [**简体中文-原版重置-测试版1.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH_FLASH_Demo1.0/ZH-FLASH_Demo_1.0.zip)
  
 ### 手动下载
-1. 在本项目首页找到"Releases"点击并进入.（**[实在找不到点击此处直接进入](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases)**）
+1. 在本项目首页找到"Releases"点击并进入.（**[可以点击此处直接进入](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases)**）
 2. 完成上一步骤后在标题为"简体中文-原版重置-xxx"的下面点击"ZH-FLASH_xxx"下载后缀为.zip的压缩包.
 
 ### 使用方法
