@@ -27,14 +27,16 @@
 
 ### 自动下载
 - 左键单击即可下载
- - [**简体中文-原版重置-测试版3.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH-FLASH-Demo3.0.0/ZH_FLASH_Demo_3.0.zip)
-***
+  - [**简体中文-原版重置-测试版3.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH-FLASH-Demo3.0.0/ZH_FLASH_Demo_3.0.zip)
+ 
 ### 手动下载
 1. 在本项目首页找到"Releases"点击并进入.（**[实在找不到点击此处直接进入](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases)**）
 2. 完成上一步骤后在标题为"简体中文-原版重置-xxx"的下面点击"ZH-FLASH_xxx"下载后缀为.zip的压缩包.
-3. 解压压缩包后将名为"**zh_Flash_xxx**"的整个文件夹拖拽至游戏根目录中的"**Translations**"文件夹内.
-4. 之后启动游戏在语言选项找到"简体中文-原版重置xxx"应用并重启游戏即可.
-5. 解压密码与文件具体名称在配套的"README.txt"文件中有详细说明.
+
+### 使用方法
+1. 解压压缩包后将名为"**zh_Flash_xxx**"的整个文件夹拖拽至游戏根目录中的"**Translations**"文件夹内.
+2. 之后启动游戏在语言选项找到"简体中文-原版重置xxx"应用并重启游戏即可.
+3. 解压密码与文件具体名称在配套的"README.txt"文件中有详细说明.
 
 **注意：本翻译包为完全独立的一个翻译包，不需要覆盖原版的翻译包文件！**
 
