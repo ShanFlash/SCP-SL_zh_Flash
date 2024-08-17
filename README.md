@@ -26,6 +26,7 @@
 ## 使用方法
 
 ### 自动下载
+([点击下载最新版本](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/ZH-FLASH-Demo3.0.0/ZH_FLASH_Demo_3.0.zip))
 
 ### 手动下载
 1. 在本项目首页找到"Releases"点击并进入.（**[实在找不到点击此处直接进入](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases)**）
