@@ -33,7 +33,7 @@
   - [**简体中文-原版重置-测试版2.1.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-2.1/ZH_FLASH_Demo2.1.zip)
   - [**简体中文-原版重置-测试版2.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-2.0/ZH_FLASH_Demo2.0.zip)
   - [**简体中文-原版重置-测试版1.5.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-1.5/ZH_FLASH_Demo1.5.zip)
-  - [**简体中文-原版重置-测试版1.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-1.0/ZH-FLASH_Demo1.0.zip)
+  - [**简体中文-原版重置-测试版1.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-1.0/ZH_FLASH_Demo1.0.zip)
  
 ### 手动下载
 1. 在本项目首页找到"Releases"点击并进入.（**[可以点击此处直接进入](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases)**）
