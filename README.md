@@ -12,6 +12,13 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/stargazers">
+    <img src="https://img.shields.io/github/stars/ShanFlash/SCP-SL_zh_Flash.svg?style=social" alt="GitHub stars">
+  </a>
+</p>
+
+
 ## 翻译包介绍
 
 - 翻译包名称：简体中文-原版重置 (ZH-FLASH)
