@@ -1,8 +1,9 @@
 <p align=center>
 
-<img  width="160"  alt="icon"  height="160"  src="./PNG/ZH_FLASH.png"  />
+<img  width="1000"  alt="icon"  height="1000"  src="./PNG/ZH_FLASH.png"  />
 
 </p>
+
 ## 翻译包介绍
 
 - 翻译包名称：简体中文-原版重置 (ZH-FLASH)
