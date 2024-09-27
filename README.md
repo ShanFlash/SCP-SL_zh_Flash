@@ -1,5 +1,8 @@
-# SCP : SL 简体中文-原版重置（ZH_FLASH）
+<p align=center>
 
+<img  width="160"  alt="icon"  height="160"  src="./PNG/ZH_FLASH"  />
+
+</p>
 ![ZH_FLASH_LOGO](https://github.com/ShanFlash/SCP-SL_zh_Flash/blob/main/PNG/ZH_FLASH.png?raw=true)
 
 ## 翻译包介绍
