@@ -8,7 +8,7 @@
 
 # 〔 SCP : SL - TRANSLATIONS - ZH-FLASH 〕
 
-_✨ SCP : SL 自定义翻译包 ✨_
+_✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 
 </div>
 
