@@ -1,6 +1,6 @@
 <p align=center>
 
-<img  width="160"  alt="icon"  height="160"  src="./PNG/ZH_FLASH"  />
+<img  width="160"  alt="icon"  height="160"  src="./PNG/ZH_FLASH.png"  />
 
 </p>
 ![ZH_FLASH_LOGO](https://github.com/ShanFlash/SCP-SL_zh_Flash/blob/main/PNG/ZH_FLASH.png?raw=true)
