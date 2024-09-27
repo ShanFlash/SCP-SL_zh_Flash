@@ -14,8 +14,7 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 
 <p align="center">
   <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/releases">
-    <img src="https://img.shields.io/github/release/ShanFlash/SCP-SL_zh_Flash.svg?color=%00D9FFFF" alt="GitHub release">
-    <img src="https://img.shields.io/github/downloads/ShanFlash/SCP-SL_zh_Flash/total.svg?color=%23ff5733" alt="GitHub Downloads">
+    <img src="https://img.shields.io/github/release/ShanFlash/SCP-SL_zh_Flash.svg?color=%2300D9FF" alt="GitHub release">
   </a>
 </p>
 
