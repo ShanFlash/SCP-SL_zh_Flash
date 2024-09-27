@@ -62,7 +62,7 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 
 - 视频教程:视频待定,请先查看文字教程.
 - 文字教程(顺序从上至下)
-  - 首先你应该先学会解压文件.
+  - 首先你应该先学会[解压文件](https://www.bilibili.com/video/BV11w4m1y7kA).
   - 推荐的解压软件有 [Bandizip](https://www.bandisoft.com/bandizip/) 和 [7-Zip](https://7-zip.org/).
   - 打开你的 Steam,在你的库中找到SCP秘密实验室,点击屏幕最右侧的齿轮图标，选择“管理” -> “浏览本地文件”，进入游戏根目录.
   - 解压所有压缩包后将名为"zh_Flash_xxx"的整个文件夹拖拽至游戏根目录中的"Translations"文件夹内.(一共需要解压两次,一次没密码一次有密码)
