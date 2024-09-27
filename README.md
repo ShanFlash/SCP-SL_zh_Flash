@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# SCP : SL - TRANSLATIONS
+# SCP : SL - TRANSLATIONS - ZH-FLASH
 
 </div>
 
