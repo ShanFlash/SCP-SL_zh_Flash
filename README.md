@@ -8,6 +8,8 @@
 
 # SCP : SL - TRANSLATIONS
 
+</div>
+
 ## 翻译包介绍
 
 - 翻译包名称：简体中文-原版重置 (ZH-FLASH)
