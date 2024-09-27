@@ -6,7 +6,9 @@
 
 <div align="center">
 
-# 〔SCP : SL - TRANSLATIONS - ZH-FLASH〕
+# 〔 SCP : SL - TRANSLATIONS - ZH-FLASH 〕
+
+_✨ SCP : SL 自定义翻译包 ✨_
 
 </div>
 
