@@ -46,7 +46,6 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 ## 下载与使用方法
 
 ### 自动下载
-> [!TIP]
 > **单击需要的版本下载即可（带有**`New/新`**的为最新版）**
 - **简体中文-原版重置-测试版**
   - [**简体中文-原版重置-测试版3.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-3.0/ZH_FLASH_Demo3.0.zip) New/新
