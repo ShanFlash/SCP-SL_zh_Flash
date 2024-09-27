@@ -1,6 +1,6 @@
 <p align=center>
 
-<img  width="500"  alt="icon"  height="500"  src="./PNG/ZH_FLASH.png"  />
+<img  width="480"  alt="icon"  height="480"  src="./PNG/ZH_FLASH.png"  />
 
 </p>
 
