@@ -75,27 +75,9 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 
 ## 🔍 翻译包预览
 
-- 常规门关闭时
+- 各类门禁显示
 
-![常规门关闭时](https://i0.hdslb.com/bfs/article/f272d2389726799ebbe823c16e513121545576624.png@1256w_708h_!web-article-pic.avif)
-
-- 常规门移动时
-
-![常规门移动时](https://i0.hdslb.com/bfs/article/e425dfc74b428c023cbc929ffa8aca44545576624.png@1256w_708h_!web-article-pic.avif)
-
-- 常规门开启时
-
-![常规门开启时](https://i0.hdslb.com/bfs/article/6cbf5f93e5e3f11b013354f037014643545576624.png@1256w_708h_!web-article-pic.avif)
-
-- 权限门关闭时
-
-![权限门关闭时](https://i0.hdslb.com/bfs/article/0d184bbf977de8e922bacbd9dcae046d545576624.png@1256w_708h_!web-article-pic.avif)
-
-- 权限门拒绝访问时
-
-![权限门拒绝访问时](https://i0.hdslb.com/bfs/article/b5d324557ce13cae4f67d0e4ffacedaa545576624.png@1256w_708h_!web-article-pic.avif)
-
-- 权限门允许访问时
+![各类门禁显示](./PNG/Doors.png)
 
 ![权限门允许访问时](https://i0.hdslb.com/bfs/article/feff5c703b35b405ecfff7f137df743c545576624.png@1256w_708h_!web-article-pic.avif)
 
