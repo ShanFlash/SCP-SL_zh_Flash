@@ -79,8 +79,6 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 
 ![各类门禁显示](./PNG/Doors.png)
 
-![权限门允许访问时](https://i0.hdslb.com/bfs/article/feff5c703b35b405ecfff7f137df743c545576624.png@1256w_708h_!web-article-pic.avif)
-
 - ALPHA核弹关闭时
 
 ![ALPHA核弹关闭时](https://i0.hdslb.com/bfs/article/77afad8f76fb65726b50a8cded0bc8ad545576624.png@1256w_708h_!web-article-pic.avif)
