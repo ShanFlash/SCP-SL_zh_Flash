@@ -49,7 +49,7 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 ### 自动下载
 > **单击需要的版本下载即可（带有**`New/新`**的为最新版）**
 - **简体中文-原版重置-测试版**
-  - [**简体中文-原版重置-万圣节-2024**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-3.5/ZH_FLASH_Demo3.5_Halloween_2024.zip) New/新
+  - [**简体中文-原版重置-万圣节-2024**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-3.5/ZH_FLASH_Demo3.5_Halloween_2024.zip)
   - [**简体中文-原版重置-测试版3.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-3.0/ZH_FLASH_Demo3.0.zip)
   - [**简体中文-原版重置-测试版2.1.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-2.1/ZH_FLASH_Demo2.1.zip)
   - [**简体中文-原版重置-测试版2.0.0**](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/Demo-2.0/ZH_FLASH_Demo2.0.zip)
