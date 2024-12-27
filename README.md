@@ -15,7 +15,7 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 <p align="center">
   <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/stargazers"><img src="https://img.shields.io/github/stars/ShanFlash/SCP-SL_zh_Flash?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
   <a href="https://img.shields.io/github/downloads/ShanFlash/SCP-SL_zh_Flash/total.svg"><img src="https://img.shields.io/github/downloads/ShanFlash/SCP-SL_zh_Flash/total.svg?color=%23008F1C" alt="GitHub Downloads"></a>&nbsp;&nbsp;
-  <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/releases"><img src="https://img.shields.io/github/v/release/ShanFlash/SCP-SL_zh_Flash?color=%230096FF" alt="Release"></a>&nbsp;&nbsp;
+  <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/releases"><img src="https://img.shields.io/github/v/release/ShanFlash/SCP-SL_zh_Flash?color=%2300D9FF" alt="Release"></a>&nbsp;&nbsp;
   <a href="https://qm.qq.com/q/WidrCektW2"><img src="https://img.shields.io/badge/QQ%E4%BA%A4%E6%B5%81%E7%BE%A4-811343251-orange?color=%23FF8000" alt="QQ Chat Group"></a>&nbsp;&nbsp;
   <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/network/members"><img src="https://img.shields.io/github/forks/ShanFlash/SCP-SL_zh_Flash" alt="GitHub Forks"></a>
 </p>
