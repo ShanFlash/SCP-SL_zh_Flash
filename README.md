@@ -76,22 +76,6 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 
 ## 🔍 翻译包预览
 
-- 各类门禁显示
-
-![各类门禁显示](./PNG/Door.png)
-
-- ALPHA核弹关闭时
-
-![ALPHA核弹关闭时](https://i0.hdslb.com/bfs/article/77afad8f76fb65726b50a8cded0bc8ad545576624.png@1256w_708h_!web-article-pic.avif)
-
-- ALPHA核弹开启时
-
-![ALPHA核弹开启时](https://i0.hdslb.com/bfs/article/6b49c7463f861ebb4b3cbc1113b6104f545576624.png@1256w_708h_!web-article-pic.avif)
-
-- ALPHA核弹重启时
-
-![ALPHA核弹重启时](https://i0.hdslb.com/bfs/article/0b15141356ca4302a8b2896018c2d400545576624.png@1256w_708h_!web-article-pic.avif)
-
 - 枪械配置工作站待机时
 
 ![枪械配置工作站待机时](https://i0.hdslb.com/bfs/article/d577b81410e7111a3333d8a22988a49a545576624.png@1256w_708h_!web-article-pic.avif)
