@@ -1,3 +1,7 @@
+> [!WARNING]
+> **本仓库正在进行重新构建**
+
+
 <p align=center>
 
   <img style="width: 50%; height: auto;" alt="icon" src="./PNG/ZH_FLASH.png" />
