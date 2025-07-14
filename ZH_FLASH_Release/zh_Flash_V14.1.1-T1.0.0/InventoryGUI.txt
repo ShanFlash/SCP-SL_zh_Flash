@@ -1,0 +1,29 @@
+弹药 [loaded]/[capacity] [type]
+伤害
+射速
+腰射精度
+瞄准精度
+重量
+长度
+丢弃:
+头盔减伤
+背甲减伤
+耐力消耗
+移动速度
+物品上限:
+弹药上限:
+共计[amount]
+护甲穿透
+奔跑时射击精度
+按下 <b>[key]</b> 键发出奸笑声
+剩余电量: [percent]
+剩余弹药: [rem]
+<size=720%>\n</size>按住 <b>[primary]</b> 使用快速射击模式</voffset>
+按住 <b>[secondary]</b> 使用高能蓄力模式
+<size=720%>\n</size>按下 <b>[key]</b> 切换射击模式
+<size=720%>\n</size>按下 <b>[key]</b> 进行攻击
+按住 <b>[key]</b> 进行充能
+<size=690%>\n</size><size=130%>Micro H.I.D. 放电已就绪</size>\n按 <b>[primary]</b> 发射
+<size=690%>\n</size><size=130%>Micro H.I.D. 功能受限</size>\n此武器已损坏
+<size=720%>\n</size>SCP-127 的力量会随着您与它联结的加深而变得更强
+<size=720%>\n</size>使用$方向键$或$[up], [left], [down], 以及[right]键$来控制蛇的移动

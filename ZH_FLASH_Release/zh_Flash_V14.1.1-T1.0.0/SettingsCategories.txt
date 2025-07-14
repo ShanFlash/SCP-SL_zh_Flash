@@ -1,0 +1,6 @@
+<b><mspace=0.9em>〔\U0000F03E〕</mspace>视频</b>
+<b><mspace=0.9em>〔\U0000F028〕</mspace>声音</b>
+<b><mspace=0.9em>〔\U0000F11C〕</mspace>控制</b>
+<b><mspace=0.9em>〔\U0000F108〕</mspace>界面</b>
+<b><mspace=0.9em>〔\U0000F5FD〕</mspace>其它</b>
+<b><mspace=0.9em>〔\U0000F233〕</mspace>服务器</b>

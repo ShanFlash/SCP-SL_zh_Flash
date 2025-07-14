@@ -1,0 +1,7 @@
+<color=#1AD9FFFF>奔跑</color>:提升你的移动速度，同时发出更大的响声。
+<color=#1AD9FFFF>潜行</color>:无声行走，但降低你的移动速度。
+<color=#1AD9FFFF>背包</color>:打开你的背包，按下鼠标左键(LMB)拿出你捡起的物品，按下鼠标右键(RMB)丢弃。
+<color=#1AD9FFFF>手无寸铁</color>:你一无所有，快去找点东西，什么都行。
+<color=#1AD9FFFF>钥匙卡</color>:你身上有一张钥匙卡，虽说眼下用处不大，但也别丢了它。
+<color=#1AD9FFFF>标准配给</color>:你装备了一把枪，一张钥匙卡以及一些有用的物品。
+<color=#1AD9FFFF>武装威胁</color>:你配备了重火力武器，以及一部访问装置，和一些医疗物品。

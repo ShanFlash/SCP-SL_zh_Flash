@@ -1,0 +1,62 @@
+0~<b><color=#1AD9FFFF>清洁工钥匙卡</color></b>
+1~<b><color=#1AD9FFFF>科学家钥匙卡</color></b>
+2~<b><color=#1AD9FFFF>研究主管钥匙卡</color></b>
+3~<b><color=#1AD9FFFF>区域总监钥匙卡</color></b>
+4~<b><color=#1AD9FFFF>安保警卫钥匙卡</color></b>
+5~<b><color=#1AD9FFFF>MTF列兵钥匙卡</color></b>
+6~<b><color=#1AD9FFFF>收容工程师钥匙卡</color></b>
+7~<b><color=#1AD9FFFF>MTF特工钥匙卡</color></b>
+8~<b><color=#1AD9FFFF>MTF指挥官钥匙卡</color></b>
+9~<b><color=#1AD9FFFF>设施总监钥匙卡</color></b>
+10~<b><color=#1AD9FFFF>混沌分裂者破解装置</color></b>
+11~<b><color=#1AD9FFFF>O5级别钥匙卡</color></b>
+12~<b><color=#CCFFB2FF>对讲机</color></b>~允许通过设备进行远距离通信。\n通信范围可进行调整。
+13~<b><color=#FFFFA1FF>C</color><color=#FFFF9CFF>O</color><color=#FFFF96FF>M</color><color=#FFFF91FF>-</color><color=#FFFF8CFF>1</color><color=#FFFF87FF>5</color> <color=#FFFF82FF>手</color><color=#FFFF7CFF>枪</color></b>
+14~<b><color=#D83B2BFF>急救包</color></b>~治疗你的伤势。
+15~<b><color=#FFFF7CFF>手电筒</color></b>~上帝说:“要有光！”
+16~<b><color=#FFA9FFFF>M</color><color=#F0B1FFFF>i</color><color=#DAB9FFFF>c</color><color=#C2C1FFFF>r</color><color=#A9C8FFFF>o</color> <color=#89CFFFFF>H</color><color=#7AD2FFFF>.</color><color=#5FD5FFFF>I</color><color=#49D7FFFF>.</color><color=#1AD9FFFF>D.</color></b>~专门为收容异常而设计的重型放电装置。
+17~<b><color=#00FF00FF>SCP-500</color></b>~万能药。\n立即恢复所有生命值并治愈大多数病痛。
+18~<b><color=#00FF00FF>SCP-207</color></b>~提升行动能力，同时逐渐损坏你的身体。
+19~<b><color=#008F1CFF>12/70 毫米霰弹</color></b>
+20~<b><color=#70C3FFFF>M</color><color=#6BC0FFFF>T</color><color=#64BCFFFF>F</color><color=#5DB8FFFF>-</color><color=#54B4FFFF>E</color><color=#4CAFFFFF>1</color><color=#44ABFFFF>1</color><color=#3AA7FFFF>-</color><color=#30A2FFFF>S</color><color=#249DFFFF>R</color> <color=#1499FFFF>步</color><color=#0096FFFF>枪</color></b>
+21~<b><color=#A3D8FFFF>C</color><color=#9ED6FFFF>r</color><color=#99D4FFFF>o</color><color=#94D2FFFF>s</color><color=#8FD0FFFF>s</color><color=#8ACEFFFF>v</color><color=#85CCFFFF>e</color><color=#80CAFFFF>c</color> <color=#7AC7FFFF>冲</color><color=#75C5FFFF>锋</color><color=#70C3FFFF>枪</color></b>
+22~<b><color=#0096FFFF>5.56×45 毫米子弹</color></b>
+23~<b><color=#6E7F9CFF>F</color><color=#6B7B96FF>S</color><color=#677791FF>P</color><color=#63738CFF>-</color><color=#606E87FF>9</color> <color=#5C6A82FF>冲</color><color=#59667DFF>锋</color><color=#556278FF>枪</color></b>
+24~<b><color=#1CB352FF>L</color><color=#1BAD50FF>o</color><color=#1BA84DFF>g</color><color=#1AA34BFF>i</color><color=#199E49FF>c</color><color=#189946FF>e</color><color=#179444FF>r</color> <color=#178F41FF>轻</color><color=#168A3FFF>机</color><color=#15853DFF>枪</color></b>
+25~<b><color=#0096FFFF>高爆手雷</color></b>~一种能造成大量伤害的高爆弹。\n投掷后会在短暂延迟后引爆。
+26~<b><color=#556278FF>闪光弹</color></b>~致盲并扰乱你的敌人。\n投掷后会在短暂延迟后引爆。
+27~<b><color=#008F1CFF>.44 马格南弹</color></b>
+28~<b><color=#008F1CFF>7.62×39 毫米子弹</color></b>
+29~<b><color=#0096FFFF>9×19 毫米子弹</color></b>
+30~<b><color=#6E7F9CFF>C</color><color=#6B7B96FF>O</color><color=#677791FF>M</color><color=#63738CFF>-</color><color=#606E87FF>1</color><color=#5C6A82FF>8</color> <color=#59667DFF>手</color><color=#556278FF>枪</color></b>
+31~<b><color=#FFFF00FF>SCP-018</color></b>~具有极大势能的弹力球。\n在高速弹射时会造成致命伤害。
+32~<b><color=#FFFF00FF>SCP-268</color></b>~戴上后短时间内"消失”，任何交互行为都将打断其效果。
+33~<b><color=#D83B2BFF>肾上腺素</color></b>~暂时恢复体力并提升伤害抗性。
+34~<b><color=#D83B2BFF>止痛药</color></b>~逐渐地恢复生命值。
+35~<b><color=#CCCCCCFF>硬币</color></b>~你不确定为什么你会带着这个东西...
+36~<b><color=#556278FF>轻型护甲</color></b>
+37~<b><color=#0096FFFF>战术护甲</color></b>
+38~<b><color=#15853DFF>重装护甲</color></b>
+39~<b><color=#088235FF>.</color><color=#087D32FF>4</color><color=#077830FF>4</color> <color=#07732EFF>左</color><color=#076E2CFF>轮</color><color=#06692AFF>手</color><color=#066328FF>枪</color></b>
+40~<b><color=#00A821FF>A</color><color=#00A320FF>K</color> <color=#009E1FFF>突</color><color=#00991EFF>击</color><color=#00941DFF>步</color><color=#008F1CFF>枪</color></b>
+41~<b><color=#088737FF>D</color><color=#088235FF>B</color><color=#087D32FF>B</color> <color=#077830FF>双</color><color=#07732EFF>管</color><color=#076E2CFF>霰</color><color=#06692AFF>弹</color><color=#066328FF>枪</color></b>
+42~<b><color=#00FF00FF>SCP-330</color></b>~一个装着以下糖果的袋子：
+43~<b><color=#00FF00FF>SCP-2176</color></b>~专属于你的鬼灯！\n注意：易碎品。\n破碎后会干扰电子设备。
+44~<b><color=#FFFF00FF>SCP-244-A</color></b>~一个年代久远的花瓶，摸起来冰冰冷冷的。\n放置后会产生一大团冷凝水蒸汽。
+45~<b><color=#FFFF00FF>SCP-244-B</color></b>~一个年代久远的花瓶，摸起来冰冰冷冷的。\n放置后会产生一大团冷凝水蒸汽。
+46~<b><color=#00FF00FF>SCP-1853</color></b>~在生命受到威胁时，让你变得更加敏捷，同时提升人机功效。
+47~<b><color=#FFA9FFFF>3</color><color=#F0B1FFFF>-</color><color=#DAB9FFFF>X</color> <color=#C2C1FFFF>分</color><color=#A9C8FFFF>子</color><color=#89CFFFFF>裂</color><color=#5FD5FFFF>解</color><color=#1AD9FFFF>者</color></color>~一把能发射强大的分解能量光束的奇怪武器。
+48~<b><color=#FFA9FFFF>COM-45 手枪</color></b>
+49~<b><color=#FFFF00FF>SCP-1576</color></b>~允许暂时与死者交流。\n一段时间后可再次使用。
+50~<b><color=#FFA9FFFF>J</color><color=#F3AFFFFF>a</color><color=#E4B6FFFF>i</color><color=#D3BCFFFF>l</color><color=#C0C2FFFF>b</color><color=#ABC8FFFF>i</color><color=#94CDFFFF>r</color><color=#77D2FFFF>d</color><color=#6AD3FFFF>·</color><color=#52D6FFFF>囚</color><color=#1AD9FFFF>鸟</color></color></b>~这啥啊?!
+51~<b><color=#00FF00FF>反向可乐</color></b>~SCP-914的实验结果。有利于你的健康，有害于你的运动能力。关键时刻还能救你一命。
+52~<b><color=#0096FFFF>F</color><color=#008EFAFF>R</color><color=#0085F5FF>-</color><color=#007BEEFF>M</color><color=#0070E8FF>G</color><color=#0066E2FF>-</color><color=#005BDBFF>0</color> <color=#0051D5FF>轻</color><color=#0046CFFF>机</color><color=#003DCAFF>枪</color></b>
+53~<b><color=#FFA9FFFF>A7 步枪</color></b>
+54~<b><color=#FF8000FF>手提灯</color></b>~一个经典的煤油手提灯，上面刻有"Daniel"的名字。
+55~<b><color=#00FF00FF>SCP-1344</color></b>~一副经过改装的护目镜，能够让您透过墙壁感知其他玩家的位置。一旦佩戴上，就绝不能摘下！
+56~<b><color=#D0F0FFFF>雪球</color></b>
+57~<b><color=#2E2E2EFF>煤块</color></b>
+58~<b><color=#D1D1D1FF>煤块?</color></b>
+59~<b><color=#FF59CAFF>磁带播放器?</color>~里面装有一份没有标签的磁带。\n求求不要播放它。求求你了。
+61~<b><color=#1AD9FFFF>地表通行证</color></b>~可用于开启出口重型闸门的一次性通行凭证。
+62~<b><color=#8079FFFF>SCP-127</color></b>

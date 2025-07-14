@@ -1,0 +1,91 @@
+<mspace=1em>\U0000F002</mspace> 变焦 <size=130%><color=#00A2FFFF>[amount]</color></size><b>×</b>
+<mspace=1em>\U0001F4B3</mspace> 访问等级 [tier]
+<mspace=1em>\U0000F005</mspace> 经验值 [current] / [next]
+<mspace=1em>\U0000F102</mspace> 已达到最大等级 <mspace=1em>\U0000F102</mspace>
+<color=#FF0000FF><mspace=1em>〔\U0000F4E2〕</mspace> 无摄像头</color>
+<color=#00A2FFFF><mspace=1em>〔\U0000F35D〕</mspace></color> 切换到: <color=#00A2FFFF>[camera]</color> (<color=#AC9CFFFF>[cost]</color>)
+<color=#FF0000FF><mspace=1em>\U0000F00D</mspace> 没有足够的备用电力 <mspace=1em>\U0000F00D</mspace></color>
+<color=#FFA500FF><mspace=1em>\U0000F017</mspace> 预计时间: [time] 秒</color>
+<color=#FF0000FF><mspace=1em>\U000026D4</mspace> 需要更高的等级 <mspace=1em>\U000026D4</mspace></color>
+<color=#FF0000FF><mspace=1em>\U0000F00D</mspace> 不可用的摄像头 <mspace=1em>\U0000F00D</mspace></color>
+<color=#FF0000FF><mspace=1em>\U000026D4</mspace> 此门拒绝访问 <mspace=1em>\U000026D4</mspace></color>
+<color=#00FF00FF><mspace=1em>〔\U0000F2F5〕</mspace></color> 开启门 (<color=#AC9CFFFF>[cost]</color>)
+<color=#07A2FFFF><mspace=1em>〔<rotate=180>\U0000F2F6</rotate>〕</mspace></color> 关闭门 (<color=#AC9CFFFF>[cost]</color>)
+<color=#FF0000FF><mspace=1em>〔\U0000F023〕</mspace></color> 锁定门 (<color=#AC9CFFFF>[cost]</color>)
+<color=#00FF00FF><mspace=1em>〔\U0000F09C〕</mspace></color> 解锁门
+<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 此门处于冷却时间中 <mspace=1em>\U0000F071</mspace></color>
+<mspace=1em>\U000026A1</mspace> 备用电力
+<color=#FF0000FF><mspace=1em>\U0000F071</mspace> 你正在遭到攻击 <mspace=1em>\U0000F071</mspace></color>
+<color=#FF840080><mspace=1em>〔\U0000F09C〕</mspace> 解锁门</color>\r<mspace=1em>〔\U0000F09C〕</mspace> 解锁门
+<color=#00A2FFFF><mspace=1em>〔\U0000F065〕</mspace> 打开设施地图</color>
+<color=#00A2FFFF><mspace=1em>〔\U0000F066〕</mspace> 关闭设施地图</color>
+<color=#AC9CFFFF>轻收容区域</color>
+<color=#AC9CFFFF>重收容区域</color>
+<color=#AC9CFFFF>入口区域</color>
+<color=#AC9CFFFF>地表区域</color>
+<color=#FFDD00FF><mspace=1em>〔\U0000F0EB〕</mspace></color> 断电 (<color=#AC9CFFFF>[cost]</color>)
+<color=#FF0000FF><mspace=1em>\U0000F00D</mspace> 此房间无法进行断电 <mspace=1em>\U0000F00D</mspace></color>
+<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 已达到同时断电的数量上限 <mspace=1em>\U0000F071</mspace></color>
+<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 此房间处于断电冷却时间中 <mspace=1em>\U0000F071</mspace></color>
+<color=#FFA500FF><mspace=1em>〔\U0000F0DC〕</mspace></color> 启动电梯 (<color=#AC9CFFFF>[cost]</color>)
+<color=#FF0000FF><mspace=1em>〔\U0000F05E〕</mspace></color> 封锁 (<color=#AC9CFFFF>[cost]</color>)
+<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 封锁处于冷却时间中 <mspace=1em>\U0000F071</mspace></color>
+<color=#FF0000FF><mspace=1em>\U0000F00D</mspace> 没有可用于封锁的门 <mspace=1em>\U0000F00D</mspace></color>
+<color=#0096FFFF><mspace=1em>〔\U0000F3C5〕</mspace></color> 标记位置 (<color=#AC9CFFFF>[cost]</color>)
+<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 已达到标记频率限制 <mspace=1em>\U0000F071</mspace></color>
+<color=#FF0000FF><mspace=1em>\U0000F00D</mspace> 摄像头切换失败 <mspace=1em>\U0000F00D</mspace></color>
+<color=#FF0000FF>\U0000F4E2</color>\n<size=70%><mspace=1em>\U0000F071</mspace> 信号丢失 <mspace=1em>\U0000F071</mspace></size>
+正在重新连接 (预计: [time]秒)
+<color=#00FFFFFF><mspace=1em>〔\U0000F0E7〕</mspace></color> 激活特斯拉电网 (<color=#AC9CFFFF>[cost]</color>)
+<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 特斯拉电网激活处于冷却中 <mspace=1em>\U0000F071</mspace></color>
+$<mspace=1em>💳</mspace> 访问等级 [tier]$ - <color=#00FF00FF>已解锁 <mspace=1em></mspace></color>
+$<mspace=1em>⚡</mspace> 备用电力$ 上限提高到 $[limit]$.
+$<mspace=1em></mspace> 断电$ 现在可用 - 按下 $[key]$ 键关闭房间内的灯光。
+$<mspace=1em></mspace> 断电$ 使用上限增加到 $[number]$ 个房间。
+$<mspace=1em></mspace> 封锁$ 现在可用 - 按下 $[key]$ 键可暂时锁定一个房间内的所有门。
++[amount] 经验值 - <color=#FF00B0FF>管理员指令</color> - <mspace=1em></mspace>
++[amount] 经验值 - 协助击杀 [role] - <mspace=1em></mspace>
++[amount] 经验值 - 直接击杀 [role] - <mspace=1em></mspace>
++[amount] 经验值 - 目击到队友击杀 [role] - <mspace=1em></mspace>
++[amount] 经验值 - 协助队友追击 - <mspace=1em>🚪</mspace>
++[amount] 经验值 - 保护队友 - <mspace=1em></mspace>
++[amount] 经验值 - 阻碍使用 <color=#FFA9FFFF>M</color><color=#F0B1FFFF>i</color><color=#DAB9FFFF>c</color><color=#C2C1FFFF>r</color><color=#A9C8FFFF>o</color> <color=#89CFFFFF>H</color><color=#7AD2FFFF>.</color><color=#5FD5FFFF>I</color><color=#49D7FFFF>.</color><color=#1AD9FFFF>D.</color> - <mspace=1em>⚡</mspace>
+<color=#FF0000FF><mspace=1em>\U0000F00D</mspace> 已经激活了锁门能力 <mspace=1em>\U0000F00D</mspace></color>
+<color=#FF4400FF><mspace=1em>〔\U0000F06A〕</mspace> 整个区域范围断电 (<color=#AC9CFFFF>[cost]</color>)</color>
+$<mspace=1em></mspace> 整个区域范围断电$ 现在可用 - 使用图标显示在$设施地图$内的区域名旁边。
+<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 整个区域范围断电处于冷却中 <mspace=1em>\U0000F071</mspace></color>
+<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 已在此处激活断电 <mspace=1em>\U0000F071</mspace></color>
+<color=#FF0000FF><mspace=1em>\U0000F00D</mspace> 此区域无法使用断电 <mspace=1em>\U0000F00D</mspace></color>
+<color=#1AD9FFFF><mspace=1em>〔\U0000F21E〕・当前存活总数</mspace></color>
+<color=#FFA9FFFF><mspace=1em>〔\U0000F05B〕・需消灭目标数</mspace></color>
+<color=#FF0000FF><mspace=1em>〔\U0000F780〕・SCP项目数</mspace></color>
+<color=#FFFF7CFF><mspace=1em>〔\U0000F406〕・</mspace><mspace=1.2em>平民单位数</mspace></color>
+<color=#556278FF><mspace=1em>〔\U0001F52B〕・</mspace><mspace=1.2em>武装单位数</mspace></color>
+<color=#CCFFB2FF><mspace=1em>〔\U0000F0A1〕</mspace></color> 使用扬声器
+<color=#FF0000FF><mspace=1em>\U000026D4</mspace> 电梯拒绝访问 <mspace=1em>\U000026D4</mspace></color>
+SCP-079并没有直接攻击或是移动的能力。相对的，你可以靠每个房间里的摄像头巡视设施内的每一处并与之互动。所有可用的能力都列在你屏幕的右上角。
+<color=#1AD9FFFF>近乎无敌</color>:重收容区会随机出现三台发电机。一旦三台发电机全部充能完毕，他们就能到达你的收容室里将你重新收容。除你之外的任何人都可以通过按下发电机上的"CANCEL"取消按钮来中断充能倒计时。
+<color=#1AD9FFFF>无限制访问</color>:你可以操纵设施内的各种系统来协助其它SCP。你的屏幕右上方会显示有哪些能力可以使用。使用这些能力都需要消耗备用电力(AP)，备用电力会随时间恢复。
+<color=#1AD9FFFF>深度学习</color>:协助消灭，或者为其它SCP提供有利帮助时，你都将获得用于取得更高访问级别的经验。每个更高等级的访问级别都会提供更多的备用电力值，并给予你新的能力。
+<color=#1AD9FFFF>监视者</color>:你独特的视角赋予了你无处不在的能力。你可以标记指定位置，人类，和让你感兴趣的对象，使其帮助你协助杀戮。
+$<mspace=1em></mspace> 入侵扫描器$ 现在可用 - 在$设施地图$中选定阵营/区域后将定期扫描剩余的幸存者。
+<color=#FF0000FF>备用电力恢复已停止 <mspace=1em>\U0000F071</mspace></color>
+<color=#FF4400FF>备用电力恢复已减少([precentage]) <mspace=1em>\U0000F071</mspace></color>
+<color=#FFA500FF>锁定门已激活 <mspace=1em>\U0000F023</mspace></color>
+<color=#FFA500FF>扬声器正在使用中 <mspace=1em>\U0000F0A1</mspace></color>
+<color=#FFA500FF>封锁正在进行中 <mspace=1em>\U0000F05E</mspace></color>
+<color=#FFFF00FF><mspace=1em>〔\U0000F06E〕</mspace> 入侵扫描器</color>
+<color=#00A2FFFF><mspace=1em>〔<rotate=180>\U0000F064</rotate>〕</mspace> 返回到地图界面</color>
+<color=#FFA500FF> 入侵扫描器 - [cnt] 个区域 <mspace=1em>\U0000F06E</mspace></color>
+<color=#FFFF00FF>已选定区域: [cnt]</color>
+<color=#F00F00FF>选择需要扫描的区域</color>
+扫描结果 - <color=#FF0000FF>失败 </color> <b>｜</b> 没有检测到静止的目标。
+将在<color=#FFA500FF>[time]</color>秒后重试...
+扫描结果 - <color=#00FF00FF>成功 </color> <b>｜</b> 在‘$[camera_name]$’处检测到$[role]$ ([zone])。
+<color=#00FF00FF>运行中 <mspace=1em>\U0000F04B</mspace><b>｜</b>正在准备下一次扫描：[time]秒</color>
+<color=#FFFF00FF>扫描中 <mspace=1em>\U0000F002</mspace><b>｜</b>正在检测静止目标，请稍后</color>
+<color=#FF0000FF>已暂停 <mspace=1em>\U0000F04C</mspace><b>｜</b>选择阵营与区域以进行扫描</color>
+<color=#1AD9FFFF>选择要扫描的阵营</color>
+<mspace=0.5em><size=80%>                                              <br>  $$$$$$\           $$$$$$\          $$$$$$$\  <br> $$  __$$\         $$  __$$\         $$  __$$\ <br> $$ /  \__|        $$ /  \__|        $$ |  $$ |<br> \$$$$$$\          $$ |              $$$$$$$  |<br>  \____$$\         $$ |              $$  ____/ <br> $$\   $$ |        $$ |  $$\         $$ |      <br> \$$$$$$  |        \$$$$$$  |        $$ |      <br>  \______/          \______/         \__|      <br>                                               <br> ============  ZERO  SEVEN  NINE  =============<br>                                               <br>  $$$$$$\          $$$$$$$$\          $$$$$$\  <br> $$$ __$$\         \____$$  |        $$  __$$\ <br> $$$$\ $$ |            $$  /         $$ /  $$ |<br> $$\$$\$$ |           $$  /          \$$$$$$$ |<br> $$ \$$$$ |          $$  /            \____$$ |<br> $$ |\$$$ |         $$  /            $$\   $$ |<br> \$$$$$$  /        $$  /             \$$$$$$  |<br>  \______/         \__/               \______/ </size>
+<mspace=1em>\U0000F071</mspace> 至少得筛选一个阵营才能继续运行！
+$<mspace=1em></mspace> 锁定门$ 现在可用 - 在指定的门上按下 $[key]$ 键可暂时锁定该门。

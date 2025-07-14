@@ -1,0 +1,29 @@
+<color=#FFFFFFFF>无</color>
+<color=#991900FF>S</color><color=#A51900FF>C</color><color=#B71700FF>P</color><color=#CB1501FF>-</color><color=#E00F00FF>1</color><color=#F20700FF>7</color><color=#FF0000FF>3</color>
+<color=#FF8000FF>D级人员</color>
+<color=#FFFFFFFF>观察者</color>
+<color=#991900FF>S</color><color=#A51900FF>C</color><color=#B71700FF>P</color><color=#CB1501FF>-</color><color=#E00F00FF>1</color><color=#F20700FF>0</color><color=#FF0000FF>6</color>
+<color=#00AFFFFF>九尾狐 收容专家</color>
+<color=#991900FF>S</color><color=#A51900FF>C</color><color=#B71700FF>P</color><color=#CB1501FF>-</color><color=#E00F00FF>0</color><color=#F20700FF>4</color><color=#FF0000FF>9</color>
+<color=#FFFF7CFF>科学家</color>
+<color=#991900FF>S</color><color=#A51900FF>C</color><color=#B71700FF>P</color><color=#CB1501FF>-</color><color=#E00F00FF>0</color><color=#F20700FF>7</color><color=#FF0000FF>9</color>
+<color=#559101FF>混沌 征召兵</color>
+<color=#991900FF>S</color><color=#A51900FF>C</color><color=#B71700FF>P</color><color=#CB1501FF>-</color><color=#E00F00FF>0</color><color=#F20700FF>9</color><color=#FF0000FF>6</color>
+<color=#991900FF>S</color><color=#A11900FF>C</color><color=#AC1800FF>P</color><color=#BB1700FF>-</color><color=#CA1500FF>0</color><color=#DA1200FF>4</color><color=#EA0C00FF>9</color><color=#F60500FF>-</color><color=#FF0000FF>2</color>
+<color=#0096FFFF>九尾狐 中士</color>
+<color=#003DCAFF>九尾狐 指挥官</color>
+<color=#70C3FFFF>九尾狐 列兵</color>
+<color=#FF00B0FF>教程角色</color>
+<color=#556278FF>设施警卫</color>
+<color=#991900FF>S</color><color=#A51900FF>C</color><color=#B71700FF>P</color><color=#CB1501FF>-</color><color=#E00F00FF>9</color><color=#F20700FF>3</color><color=#FF0000FF>9</color>
+<color=#CCCCCCFF>自定义角色</color>
+<color=#008F1CFF>混沌 步枪手</color>
+<color=#066328FF>混沌 掠夺者</color>
+<color=#15853DFF>混沌 压制者</color>
+<color=#00FFFFFF>监管模式</color>
+<color=#3D3D3DFF>导演模式</color>
+<color=#991900FF>S</color><color=#A31900FF>C</color><color=#B01800FF>P</color><color=#C21600FF>-</color><color=#D31300FF>3</color><color=#E50E00FF>1</color><color=#F40600FF>1</color><color=#FF0000FF>4</color>
+<color=#808080FF>断链玩家</color>
+<color=#993669FF>S</color><color=#A33972FF>C</color><color=#B13E7EFF>P</color><color=#C1448FFF>-</color><color=#D44AA0FF>1</color><color=#E550B1FF>5</color><color=#F455C0FF>0</color><color=#FF59CAFF>7</color>
+<color=#8C2E5FFF>S</color><color=#913063FF>C</color><color=#98326AFF>P</color><color=#A03572FF>-</color><color=#AA387BFF>1</color><color=#B43B84FF>5</color><color=#BF3F8EFF>0</color><color=#C94298FF>7</color><color=#D245A2FF>-</color><color=#DC48ABFF>阿</color><color=#E44AB2FF>尔</color><color=#E94CB7FF>法</color>
+<color=#99367AFF>S</color><color=#9F3676FF>C</color><color=#A63772FF>P</color><color=#AF366CFF>-</color><color=#B93564FF>1</color><color=#C4335CFF>5</color><color=#D02F52FF>0</color><color=#DC2B47FF>7</color><color=#E7243AFF>-</color><color=#F11C2DFF>0</color><color=#F9101BFF>4</color><color=#FF0000FF>9</color>

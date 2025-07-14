@@ -1,0 +1,2 @@
+<color=#FFA500FF>其他人也能看到激光瞄点</color>
+<color=#FFA500FF>爆头不能造成额外伤害</color>

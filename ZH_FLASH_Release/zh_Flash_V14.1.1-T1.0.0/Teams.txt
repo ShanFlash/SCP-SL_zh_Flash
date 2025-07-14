@@ -1,0 +1,7 @@
+<color=#FF0000FF><mspace=1em>〔\U0000F780〕・</mspace><mspace=1.2em>SCP项目</mspace></color>
+<color=#0096FFFF><mspace=1em>〔\U0000F3ED〕・</mspace><mspace=1.2em>基金会势力</mspace></color>
+<color=#008F1CFF><mspace=1em>〔\U0000F4FB〕・</mspace><mspace=1.2em>混沌分裂者</mspace></color>
+<color=#FFFF7CFF><mspace=1em>〔\U0000F5D2〕・</mspace><mspace=1.2em>科 学 家</mspace></color>
+<color=#FF8000FF><mspace=1em>〔\U0000F554〕・</mspace><mspace=1.5em>D级人员</mspace></color>
+<color=#FFFFFFFF><mspace=1em>〔\U0000F714〕・</mspace><mspace=1.2em>死 亡 数</mspace></color>
+<color=#FF00B0FF><mspace=1em>〔\U0000F128〕・</mspace><mspace=1.2em>无 阵 营</mspace></color>

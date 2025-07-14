@@ -1,0 +1,22 @@
+{
+	"Name": "<b><color=#1AD9FFFF>简</color><color=#5DCDFFFF>体</color><color=#82BCFFFF>中</color><color=#9AAAFFFF>文</color> <color=#AC9CFFFF>•</color> <color=#C09DFFFF>原</color><color=#D6A3FFFF>版</color><color=#ECA6FFFF>重</color><color=#FFA9FFFF>置</color> <color=#DD0000FF>V14.1.1</color>-<color=#00DD00FF>T1.0.0</color></b>",
+	"Authors": [
+		"bilibili@是闪闪闪闪闪"
+
+
+	],
+	"InterfaceLocales": [
+		"zh-CN",
+		"zh-Hans",
+		"zh"
+	],
+	"SystemLocales": [
+		"zh-CN",
+		"zh-SG",
+		"zh-Hans",
+		"zh"
+	],
+	"ForcedFontOrder": [
+		"NotoSansCJKsc-RegularDynamic"
+	]
+}

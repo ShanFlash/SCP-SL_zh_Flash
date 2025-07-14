@@ -1,0 +1,9 @@
+ <b>科 学 家</b> 
+ <b>清 洁 工</b>
+ <b>研 究 主 管</b>
+<size=3.15> <b>收容工程师</b></size>
+<size=3.15> <b>安 保 警 卫</b></size>
+<size=3.4><nobr><b>区域总监</b></nobr></size>
+<size=3.4><nobr><b>设施总监</b></nobr></size>
+<color=#00CC00FF>剩余使用次数: 1</color>
+<color=#CC0000FF>权限已被撤销</color>
