@@ -24,11 +24,12 @@ _✨ SCP : SL 自定义扩展翻译包 —— 您的扩展包名称 ✨_
 ### 🛠️ 使用方法
 
 - 文字教程(顺序从上至下)
-  1. 首先你应该先学会[解压文件](https://www.bilibili.com/video/BV1xZ4y1v7pU).
-  2. 推荐的解压软件有 [Bandizip](https://www.bandisoft.com/bandizip/) 和 [7-Zip](https://7-zip.org/).
-  3. 打开你的Steam,在你的库中选中SCP秘密实验室并单击鼠标右键,之后选择“管理” -> “浏览本地文件”，进入游戏根目录.
-  4. 将压缩包中的文件解压到 ZH-FLASH 翻译包的文件夹中并进行替换
-  5. 最后启动游戏,在语言选项找到刚才安装的翻译包应用并重启游戏即可.
+  1. 首先安装 [ZH-FLASH](https://github.com/ShanFlash/SCP-SL_zh_Flash) 翻译包
+  2. 其次你应该先学会[解压文件](https://www.bilibili.com/video/BV1xZ4y1v7pU).
+  3. 推荐的解压软件有 [Bandizip](https://www.bandisoft.com/bandizip/) 和 [7-Zip](https://7-zip.org/).
+  4. 打开你的Steam,在你的库中选中SCP秘密实验室并单击鼠标右键,之后选择“管理” -> “浏览本地文件”，进入游戏根目录.
+  5. 将压缩包中的文件解压到 ZH-FLASH 翻译包的文件夹中并进行替换
+  6. 最后启动游戏,在语言选项找到刚才安装的翻译包应用并重启游戏即可.
 
 > [!CAUTION]
 > **注意：本翻译包为 ZH-FLASH 的一个扩展包，您需要先安装 ZH-FLASH 再使用此扩展包进行覆盖！**
