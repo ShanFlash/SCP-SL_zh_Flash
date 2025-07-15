@@ -10,6 +10,8 @@
 
 _✨ SCP : SL 自定义扩展翻译包 —— 您的扩展包名称 ✨_
 
+</div>
+
 ⬇️ 此处自行修改
 <p align="center">
   <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/stargazers"><img src="https://img.shields.io/github/stars/ShanFlash/SCP-SL_zh_Flash?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
@@ -29,4 +31,4 @@ _✨ SCP : SL 自定义扩展翻译包 —— 您的扩展包名称 ✨_
   5. 最后启动游戏,在语言选项找到刚才安装的翻译包应用并重启游戏即可.
 
 > [!CAUTION]
-> **注意：本翻译包为 [ZH-FLASH](https://github.com/ShanFlash/SCP-SL_zh_Flash) 的一个扩展包，您需要先安装 [ZH-FLASH](https://github.com/ShanFlash/SCP-SL_zh_Flash) 再使用此扩展包进行覆盖！**
+> **注意：本翻译包为 ZH-FLASH 的一个扩展包，您需要先安装 ZH-FLASH 再使用此扩展包进行覆盖！**
