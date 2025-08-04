@@ -1,0 +1,101 @@
+新闻
+服务器列表
+游戏设置
+退出
+社交媒体
+<b>〔❉〕网络</b>
+<b>〔★〕收藏</b>
+<b>〔✔️〕官方</b>
+<b>〔➔〕历史</b>
+<b>〔☻〕好友</b>
+搜索服务器
+创建本地服务器
+快速重进
+IP直连
+刷新
+<b><color=#E5FBFFFF>隐</color><color=#DEFAFFFF>藏</color><color=#D6F9FFFF>无</color><color=#CCF7FFFF>人</color><color=#C3F5FFFF>服</color><color=#B9F4FFFF>务</color><color=#B2F2FFFF>器</color></b>
+<b><color=#EAE5FFFF>隐</color><color=#E4DEFFFF>藏</color><color=#DCD5FFFF>已</color><color=#D4CBFFFF>满</color><color=#CDC3FFFF>服</color><color=#C5B9FFFF>务</color><color=#BFB2FFFF>器</color></b>
+<b><color=#FFE5FFFF>无</color><color=#FFDEFFFF>白</color><color=#FFD5FFFF>名</color><color=#FFCCFFFF>单</color><color=#FFC3FFFF>服</color><color=#FFB9FFFF>务</color><color=#FFB2FFFF>器</color></b>
+视频
+声音
+控制
+游戏
+其它
+窗口化模式
+全屏
+无边窗口化
+最大窗口化
+窗口化
+垂直同步
+FPS限制
+无限制
+图像质量
+贴花
+光影渲染
+阴影分辨率
+阴影距离
+动态模糊
+色彩校正
+抗锯齿
+光源渲染
+主音量
+音效
+语音聊天
+主菜单音乐
+界面音量
+主菜单主题
+加速介绍淡出速度
+视角摇晃
+切换奔跑模式
+显示精确血量
+状态展示
+公开战局
+切换拾取模式
+SCP-079 - 切换观察模式
+SCP-079 - 后处理
+语言
+主菜单样式
+连接
+返回
+此更改需要重新加载。\n是否立即重新加载主菜单?
+好的
+取消
+您确定要退出游戏吗?
+屏幕分辨率
+隐藏IP地址
+欢迎回来, {username}！
+演职员表
+身份验证中
+<b><color=#FFFFCCFF>〔</color> <color=#FFFFC7FF>正</color><color=#FFFFBFFF>在</color><color=#FEFFB8FF>连</color><color=#FEFFB0FF>接</color><color=#FFFFA7FF>中</color><color=#FFFFA7FF>心</color><color=#FEFF97FF>服</color><color=#FEFF8DFF>务</color><color=#FEFF83FF>器</color><color=#FFFF79FF>│</color></b><color=#FFFF6FFF><mspace=1em>\U0000F017</mspace></color> <b><color=#FFFF66FF>〕</color></b>
+<b><color=#CCFFCCFF>〔</color> <color=#C7FFC6FF>已</color><color=#C0FFBFFF>连</color><color=#B8FFB7FF>接</color><color=#B1FFAFFF>至</color><color=#A8FFA6FF>中</color><color=#9FFF9DFF>心</color><color=#97FF96FF>服</color><color=#8EFF8CFF>务</color><color=#84FF81FF>器</color><color=#79FF78FF>│</color></b><color=#6FFF6EFF><mspace=1em>\U0000F00C</mspace></color> <b><color=#66FF66FF>〕</color></b>
+<b><color=#FFCCCCFF>〔</color> <color=#FFC7C5FF>连</color><color=#FFBFBDFF>接</color><color=#FFB6B5FF>中</color><color=#FFADABFF>心</color><color=#FFA5A2FF>服</color><color=#FF9C99FF>务</color><color=#FF9491FF>器</color><color=#FF8A87FF>失</color><color=#FF807DFF>败</color><color=#FF7775FF>│</color></b><color=#FF6E6DFF><mspace=1em>\U0000F00D</mspace></color> <b><color=#FF6666FF>〕</color></b>
+<b><color=#FFCCCCFF>〔</color> <color=#FFC7C7FF>S</color><color=#FFC1BFFF>t</color><color=#FFB9B8FF>e</color><color=#FFB2B0FF>a</color><color=#FFABA8FF>m</color> <color=#FFA4A1FF>平</color><color=#FF9C99FF>台</color><color=#FF9592FF>验</color><color=#FF8D8AFF>证</color><color=#FF8582FF>失</color><color=#FF7C7AFF>败</color><color=#FF7473FF>│</color></b><color=#FF6C6BFF><mspace=1em>\U0000F00D</mspace></color> <b><color=#FF6666FF>〕</color></b>
+<b><color=#FFCCCCFF>〔</color> <color=#FFC8C7FF>D</color><color=#FFC2C2FF>i</color><color=#FFBCBBFF>s</color><color=#FFB6B4FF>c</color><color=#FFB0ADFF>o</color><color=#FFA9A7FF>r</color><color=#FFA29FFF>d</color> <color=#FF9D9AFF>平</color><color=#FF9693FF>台</color><color=#FF8F8CFF>验</color><color=#FF8885FF>证</color><color=#FF817EFF>失</color><color=#FF7977FF>败</color><color=#FF7271FF>│</color></b><color=#FF6B6BFF><mspace=1em>\U0000F00D</mspace></color> <b><color=#FF6666FF>〕</color></b>
+关闭
+秒
+清理布娃娃(尸体)时间
+显示Steam个人档案
+允许玩家通过点击玩家列表上的图标来查看你的Steam个人档案。
+禁止跟踪(DNT)
+阻止服务器读取您的数据（IP地址、用户ID等）用于与服务器安全无关的目的。
+图像处理(Graphics)API
+游戏已不再对直接从游戏中创建的服务器进行维护,【仍然创建可能会产生游戏内的异常问题】。\n目前有3种方法创建SCP:SL服务器:\n- 您可以直接下载SCP:SL专用服务器(Steam AppID:996560)后在您电脑上运行它。\n- 您可以租用一个VPS(虚拟专用服务器)或在服务器供应商方租用运行SCP:SL专用服务器。\n- 您可以从支持SCP:SL的游戏主机供应商中租用SCP:SL服务器(如ZAP主机托管)\n\n点击下方的链接获取详情信息。\n您可以向我们的技术支持寻求帮助(在主菜单可以找到我们的Discord链接)。
+仍然创建
+查阅详情
+租用服务器
+取消
+秒
+感谢您游玩我们的游戏！
+阵营刷新时系统任务栏闪烁
+环境光遮蔽
+体积光
+Bloom
+开关字幕
+操作指南
+租用服务器
+<size=60><color=#FF0000FF>光敏性警告：游玩前必读！</color></size>\n<size=36>有极少数人群暴露在特定光影图案或闪光光亮下时会引发癫痫。在电脑屏幕上观看特定图案或背景，或者玩电子游戏时，可能会引发这些人的癫痫发作。甚至没有癫痫病史的人，也可能诱发先前未被察觉的癫痫症状。\n\n如果您或您的家人曾有过癫痫病史，请在进行游戏前先咨询医生。如果您在游玩电子游戏过程中出现任何以下症状，包括头晕、目眩、眼部或肌肉抽搐、失去意识、失去方向感、出现任何自己无法控制的动作或抽搐，请立即停止游戏，并在继续本游戏前咨询您的医生。</size>
+按下任意按键继续
+不再显示
+继续游戏
+服务器信息
+断开连接

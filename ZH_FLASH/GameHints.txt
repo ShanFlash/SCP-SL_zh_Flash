@@ -1,0 +1,6 @@
+<color=#FF0000FF>拒绝访问</color>
+<size=110%><color=#FF9F1CFF><mspace=1em>\U0000F071</mspace> <b>达到上限</b> <mspace=1em>\U0000F071</mspace></color></size>\n<color=#FF9F1CFF><b>〔 <color=#1AD9FFFF>弹药达到上限</color>｜<color=#AC9CFFFF><lowercase>[type]</lowercase></color>｜<color=#FFA9FFFF>最多可持有 [max_type_count] 发</color> 〕</color></b>
+<size=110%><color=#FF3B3BFF><mspace=1em>\U0000F05E</mspace> <b>无法拾取</b> <mspace=1em>\U0000F05E</mspace></color></size>\n<color=#FF3B3BFF><b>〔 <color=#1AD9FFFF>弹药已达上限</color>｜<color=#AC9CFFFF><lowercase>[type]</lowercase></color>｜<color=#FFA9FFFF>最多可持有 [max_type_count] 发</color> 〕</color></b>
+<size=110%><color=#FF9F1CFF><mspace=1em>\U0000F071</mspace> <b>达到上限</b> <mspace=1em>\U0000F071</mspace></color></size>\n<color=#FF9F1CFF><b>〔 <color=#1AD9FFFF>物品达到上限</color>｜<color=#AC9CFFFF>[type]</color>｜<color=#FFA9FFFF>最多可持有 [max_type_count] 个</color> 〕</color></b>
+<size=110%><color=#FF3B3BFF><mspace=1em>\U0000F05E</mspace> <b>无法拾取</b> <mspace=1em>\U0000F05E</mspace></color></size>\n<color=#FF3B3BFF><b>〔 <color=#1AD9FFFF>物品已达上限</color>｜<color=#AC9CFFFF>[type]</color>｜<color=#FFA9FFFF>最多可持有 [max_type_count] 个</color> 〕</color></b>
+<size=110%><color=#FF3B3BFF><mspace=1em>\U0000F05E</mspace> <b>背包已满</b> <mspace=1em>\U0000F05E</mspace></color></size>\n<color=#FF3B3BFF><b>〔 <color=#FFA9FFFF>你最多可携带 [max_item_count] 件物品</color> 〕</color></b>

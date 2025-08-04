@@ -1,0 +1,19 @@
+<b><color=#FFFFFFFF>本回合结束！</color></b>
+<color=#FF0000FF>『SCP获胜』</color>
+<color=#0096FFFF>『基金会获胜』</color>
+<color=#008F1CFF>『分裂者获胜』</color>
+<color=#FFFFFFFF>『陷入僵局』</color>
+<b><color=#FF0000FF>异常项目</color>侵占了设施。应急响应方案已紧急启动。</b>
+<b>所有安全威胁都已被无效化，<color=#0096FFFF>S<lowercase>ite</lowercase>-02</color>又恢复了安全。</b>
+<b>基金会安保势力被彻底消灭。<color=#008F1CFF>特工</color>们随时待命准备出动。</b>
+<b><color=#0096FFFF>S<lowercase>ite</lowercase>-02</color>基本得到控制，但也为此付出了一定代价。最终的赢家难下定论。</b>
+<b>[summary_d_escaped] 名<color=#FF8000FF>D级人员</color>逃离设施</b>
+<b>[summary_s_escaped] 名<color=#FFFF7CFF>科学家</color>逃离设施</b>
+<b><color=#FF4545FF>A<lowercase>lpha</lowercase>核弹头</color>共了结了 [summary_warhead_kills] 条人命。</b>
+<b><color=#FF4545FF>A<lowercase>lpha</lowercase>核弹头</color>并未在本回合中使用。</b>
+<b>此次行动共花费 [summary_round_minutes]</color> 分 [summary_round_seconds]</color> 秒。</b>
+<b>共消灭了 [summary_scp_terminated] 个<color=#FF0000FF>SCP</color></b>
+<b>下回合游戏将在 [summary_next_round_countdown]</color> 秒后开始。</b>
+<b><color=#FF0000FF>SCP</color>共计杀死了 [summary_scpfrags] 名人类。</b>
+<color=#FF59CAFF>『火烈鸟获胜』</color>
+<b>其它的阵营都全军覆没了。<color=#FF59CAFF>火烈鸟</color>们取得了完全的胜利。</b>

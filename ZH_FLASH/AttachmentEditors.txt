@@ -1,0 +1,18 @@
+自定义 \U0001F4DD\r<color=#AC9CFF4D>自定义 \U0001F4DD</color>
+预设 \U0001F4DD#[index]\r<color=#AC9CFF4D>预设 \U0001F4DD#[index]</color>
+<color=#00CC00FF>保存 \U0000F00C</color>
+[ <color=#CC0000FF>清空配件配置 \U0000F00D</color> ]
+默认配置 \U0001F4DD\r<color=#AC9CFF4D>默认配置 \U0001F4DD</color>
+<size=110%><color=#1AD9FFFF><u>预设方案</u></color></size>
+\n<size=250><color=#CC0000FF>\U0000F023</color></size>
+<size=52><color=#CCCCCCFF>[ <color=#0096FFFF>S I T E - 0 2</color> 枪 械 配 置 自 定 义 点 - <color=#CC0000FF>待 机 模 式</color> ]</color></size>\n<size=40>〔 触 碰 屏 幕 以 激 活 工 作 站 〕</size>
+<color=#CCCCCCFF>欢 迎 使 用\n<color=#0096FFFF>S I T E - 0 2</color> 枪 械 配 置 工 作 站</color>
+<color=#FFFF00FF><size=110%>工 作 站 正 在 启 动 中 . . .</size></color>
+\n<size=250></color><color=#00CC00FF>\U0000F09C</color></size>
+<size=52><color=#CCCCCCFF>[ <color=#0096FFFF>S I T E - 0 2</color> 枪 械 配 置 自 定 义 点 - <color=#00CC00FF>现 在 可 用</color> ]</color></size>\n<size=40><color=#CCCCCCFF>〔 请 装 备 好 您 的 枪 械 进 行 配 件 改 装 〕</color></size>
+<color=#CCCCCCFF>即 将 进 入 -</color> <color=#CC0000FF>待 机 模 式</color>
+<color=#FFFF00FF><size=110%>工 作 站 正 在 关 闭 中 . . .</size></color>
+[ <color=#FFFF7CFF>显示概要 \U0000F00E</color> ]
+[ <color=#FF8000FF>关闭概要 \U0000F010</color> ]
+[Attachment] 自定义
+按下[Key]进行配件改装
