@@ -74,7 +74,8 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 ### 🔽 自动下载
 > **单击需要的版本下载即可（带有**`New/新`**的为最新版）**。
 - **简体中文 • 原版重置**
-  - [简体中文 • 原版重置 V14.1.1-T1.0.0](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/V14.1.1-T1.0.0/ZH_FLASH_V14.1.1-T1.0.0.zip) New/新
+  - [简体中文 • 原版重置 V14.1.3-T1.0.1](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/V14.1.3-T1.0.1/ZH_FLASH_V14.1.3-T1.0.1.zip) New/新
+  - [简体中文 • 原版重置 V14.1.1-T1.0.0](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases/download/V14.1.1-T1.0.0/ZH_FLASH_V14.1.1-T1.0.0.zip) 
  
 ### 📦 手动下载
 1. 在本项目首页找到“Releases”点击并进入;（**[可以点击此处直接进入](https://github.com/ShanFlash/SCP-SL_zh_Flash/releases)**）
