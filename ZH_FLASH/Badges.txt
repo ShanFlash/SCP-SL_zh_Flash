@@ -9,7 +9,7 @@ Northwood工作室官方 人力资源部
 Northwood工作室官方 人力资源部总监
 Northwood工作室官方 营销部平台经理
 Northwood工作室官方 员工
-Northwood工作室官方 Steam经理
+Northwood工作室官方 论坛管理经理
 Northwood工作室官方 系统管理员
 Northwood工作室官方 维基百科经理
 SCP:SL官方 艺术经理
@@ -22,8 +22,8 @@ SCP:SL官方活动 获奖者
 SCP:SL官方 全栈工程师
 SCP:SL官方 游戏策划
 SCP:SL官方 游戏逻辑程序员
-SCP:SL官方 全球管理员经理
-SCP:SL官方 全球管理员
+SCP:SL官方 安全与规范经理
+SCP:SL官方 安全与规范专员
 SCP:SL官方 首席游戏策划
 SCP:SL官方 首席游戏逻辑程序员
 SCP:SL官方 游戏关卡设计师
@@ -68,22 +68,23 @@ Northwood工作室官方 安全总监助理
 社区管理部助理总监
 人力资源部助理总监
 SCP:SL官方 游戏策划主管
-SCP:SL官方 关卡策划主管
-SCP:SL 全球管理员主管
-Northwood官方 系统管理员主管
-Northwood官方 网络开发主管
-Northwood官方 网络开发经理
-Northwood官方 文案主管
-Northwood官方 文案经理
-Northwood官方 Patreon众筹主管
-Northwood官方 Patreon众筹经理
-Northwood官方 社交媒体主管
-Northwood官方 社交媒体经理
-Northwood官方 翻译部门主管
-Northwood官方 Steam主管
+SCP:SL官方 关卡设计主管
+SCP:SL官方 安全与规范主管
+Northwood工作室官方 系统管理员主管
+Northwood工作室官方 网络开发主管
+Northwood工作室官方 网络开发经理
+Northwood工作室官方 文案主管
+Northwood工作室官方 文案经理
+Northwood工作室官方 Patreon众筹主管
+Northwood工作室官方 Patreon众筹经理
+Northwood工作室官方 社交媒体主管
+Northwood工作室官方 社交媒体经理
+Northwood工作室官方 翻译部门主管
+Northwood工作室官方 论坛管理主管
 SCP:SL官方 关卡设计经理
 SCP:SL官方 反作弊经理
 SCP:SL官方 反作弊主管
-Northwood官方 Wiki主管
+Northwood工作室官方 Wiki主管
 SCP:SL官方 API团队负责人
 SCP:SL官方 API维护者
+SCP:SL Bug汇报贡献者
