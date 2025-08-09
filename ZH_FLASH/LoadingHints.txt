@@ -81,5 +81,5 @@ SCP-049可以为附近的SCP-049-2增加一些护盾。
 SCP-049-2易受爆头攻击。
 SCP-049-2是很好的侦察兵，在拥有庞大数量时非常危险。
 绝大多数可操控的SCP项目都有一个名为‘休谟护盾’的额外血条，它可以吸收伤害并能随时间而恢复。
-<b>当前翻译包：<color=#1AD9FFFF>简</color><color=#5DCDFFFF>体</color><color=#82BCFFFF>中</color><color=#9AAAFFFF>文</color> <color=#AC9CFFFF>•</color> <color=#C09DFFFF>原</color><color=#D6A3FFFF>版</color><color=#ECA6FFFF>重</color><color=#FFA9FFFF>置</color> <color=#DD0000FF>V14.1.1</color><color=#CCCCCCFF>-</color><color=#00DD00FF>T1.0.0</color></b>
+<b>当前翻译包：<color=#1AD9FFFF>简</color><color=#5DCDFFFF>体</color><color=#82BCFFFF>中</color><color=#9AAAFFFF>文</color> <color=#AC9CFFFF>•</color> <color=#C09DFFFF>原</color><color=#D6A3FFFF>版</color><color=#ECA6FFFF>重</color><color=#FFA9FFFF>置</color> <color=#DD0000FF>V14.1.3</color><color=#CCCCCCFF>-</color><color=#00DD00FF>T1.0.2</color></b>
 <color=#FFA9FFFF><b>翻译包作者：bilibili@是闪闪闪闪闪</b></color>
