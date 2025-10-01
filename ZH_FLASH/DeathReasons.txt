@@ -1,4 +1,4 @@
-这是 [class] - <b><color=#FFA9FFFF>[user]</color></b>的尸体！ \n\n死因: [cause]
+这是 [class] - <b>[user]</b>的尸体！ \n\n死因: [cause]
 已被重新收容。
 在Alpha核弹头的爆炸中蒸发。
 突发性死亡，无明显外伤。

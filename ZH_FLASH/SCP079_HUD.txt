@@ -14,7 +14,7 @@
 <color=#FF0000FF><mspace=1em>〔\U0000F023〕</mspace></color> 锁定门 (<color=#AC9CFFFF>[cost]</color>)
 <color=#00FF00FF><mspace=1em>〔\U0000F09C〕</mspace></color> 解锁门
 <color=#FFA500FF><mspace=1em>\U0000F071</mspace> 此门处于冷却时间中 <mspace=1em>\U0000F071</mspace></color>
-<mspace=1em>\U000026A1</mspace> 备用电力
+<mspace=1em>\U000026A1</mspace> 备用电力 <color=#00000000>0</color>
 <color=#FF0000FF><mspace=1em>\U0000F071</mspace> 你正在遭到攻击 <mspace=1em>\U0000F071</mspace></color>
 <color=#FF840080><mspace=1em>〔\U0000F09C〕</mspace> 解锁门</color>\r<mspace=1em>〔\U0000F09C〕</mspace> 解锁门
 <color=#00A2FFFF><mspace=1em>〔\U0000F065〕</mspace> 打开设施地图</color>
