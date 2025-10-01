@@ -1,0 +1,7 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+ALPHA
+ALPHA
+核弹头
+核弹头
+发射井
+发射井

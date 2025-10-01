@@ -1,0 +1,9 @@
+ (%time% ⏳)
+ (+%influence% 👊)
+<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
+已完成的目标将显示在这里！
+<color=%achieverColor%>%achieverName%</color> 击杀了 <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> 对 <color=%victimColor%>%victimName%</color> 造成了有效伤害
+<color=%achieverColor%>%achieverName%</color> 成功逃离了设施
+<color=%achieverColor%>%achieverName%</color> 成功启动了一台 <b>发电机</b>
+<color=%achieverColor%>%achieverName%</color> 拾取了 <color=red>%itemName%</color>

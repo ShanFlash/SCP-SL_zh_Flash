@@ -1,0 +1,18 @@
+自定义
+预设 #[index]
+保 存
+清空配件配置
+默认配置
+预 设
+工作站 - <color=#c00>离线中</color>
+<color=#ccc>SITE-02 枪械配置自定义点</color> - 待机模式\n<size=39>触碰屏幕以激活， <color=#ccc>仅限已授权人员。</color></size>
+您好，使用者！
+工作站正在启动中
+工作站 - <color=#0c0>已就绪</color>
+<size=52><color=#ccc>SITE-02 枪械配置自定义点</color> - 现在可用</size>\n<size=42><color=#ccc>请装备好您的枪械进行配件改装。</color></size>
+断开供电
+工作站正在关闭中
+显示概要
+关闭概要
+[Attachment] 自定义
+按下[Key]键进行配件改装

@@ -30,7 +30,7 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 - 翻译包名称：简体中文・原版重置（ZH-FLASH）
 - 翻译包作者：是闪闪闪闪闪（**[作者bilibili主页](https://space.bilibili.com/545576624)**）
 - 注意事项如下：
-  - 本翻译包基于游戏[**《SCP: Secret Laboratory》**](https://scpslgame.com)官方简体中文翻译文件 `zh_Hans` 进行修改；
+  - 本翻译包基于游戏[**《SCP: Secret Laboratory》**](https://scpslgame.com)官方简体中文翻译文件 [`zh_Hans`](./ZH_HANS/manifest.json) 进行修改；
   - 本项目的修改内容遵循 [**CC BY-SA 3.0**](https://creativecommons.org/licenses/by-sa/3.0/legalcode) 协议。
   - 你可以自由复制、修改与发布本翻译包及其衍生版本，但必须：
     - **明确标注**原作者（官方与本项目作者）；

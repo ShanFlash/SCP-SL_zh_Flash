@@ -1,0 +1,22 @@
+{
+	"Name": "简体中文",
+	"Authors": [
+		"Tychus_骁奕",
+		"美味水H2O Delicious"
+
+	],
+	"InterfaceLocales": [
+		"zh-CN",
+		"zh-Hans",
+		"zh"
+	],
+	"SystemLocales": [
+		"zh-CN",
+		"zh-SG",
+		"zh-Hans",
+		"zh"
+	],
+	"ForcedFontOrder": [
+		"NotoSansCJKsc-RegularDynamic"
+	]
+}

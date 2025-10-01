@@ -1,0 +1,19 @@
+<b>本回合结束！</b>
+SCP获胜
+基金会获胜
+分裂者获胜
+陷入僵局
+<b>异常项目侵占了设施。应急响应方案已紧急启动。</b>
+<b>所有安全威胁都已被无效化，Site-02又恢复了安全。</b>
+<b>基金会安保势力被彻底消灭。特工们随时待命准备出动。</b>
+<b>Site-02基本得到控制，但也为此付出了一定代价。最终的赢家难下定论。</b>
+<b>[summary_d_escaped] 名D级人员逃离设施</b>
+<b>[summary_s_escaped] 名科学家逃离设施</b>
+<b>Alpha核弹共了结了 [summary_warhead_kills] 条人命。</b>
+<b>Alpha核弹并未在本回合中使用。</b>
+<b>此次行动共花费 [summary_round_minutes] 分 [summary_round_seconds] 秒。</b>
+<b>共消灭了 [summary_scp_terminated] 个SCP</b>
+<b>下回合游戏将在 [summary_next_round_countdown] 秒后开始。</b>
+<b>SCP共计杀死了 [summary_scpfrags] 名人类。</b>
+火烈鸟获胜
+<b>其它的阵营都全军覆没了。火烈鸟们取得了完全的胜利。</b>
