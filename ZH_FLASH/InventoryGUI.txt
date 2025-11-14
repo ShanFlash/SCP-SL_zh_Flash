@@ -27,3 +27,4 @@
 <size=690%>\n</size><size=130%>Micro H.I.D. 功能受限</size>\n此武器已损坏
 <size=720%>\n</size>SCP-127 的力量会随着您与它联结的加深而变得更强
 <size=720%>\n</size>使用$方向键$或$[up], [left], [down], 以及[right]键$来控制蛇的移动
+按下 [key] 键发出奸笑声

@@ -1,7 +1,7 @@
 <color=#0096FFFF>净 化 程 序 将 开 始 于</color>
 <size=6><color=#FFA500FF><mspace=1em>\U0000F780</mspace> 请 撤 离 此 区 域 <mspace=1em>\U0000F780</mspace></color></size>
 <size=6><color=#FF0000FF><mspace=1em>\U0000F071</mspace>  <b>立 即 撤 离</b>  <mspace=1em>\U0000F071</mspace></color></size>
-<color=#0096FFFF><size=84%>威 胁 性 评 估 进 行 中</size></color>
-<color=#70C3FFFF><size=85%>正 在 准 备 安 全 系 统</size></color>
-<color=#0096FFFF><size=84%>系 统 准 备 启 动</size></color>
-<color=#FFFF7CFF><size=90%>初 始 化 程 序 p - b - 3</size></color>
+<color=#0096FFFF>威 胁 性 评 估 进 行 中</color>
+<color=#70C3FFFF>正 在 准 备 安 全 系 统</color>
+<color=#0096FFFF>系 统 准 备 启 动</color>
+<color=#FFFF7CFF>初 始 化 程 序 p - b - 3</color>

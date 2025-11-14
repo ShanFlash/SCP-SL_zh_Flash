@@ -23,7 +23,7 @@
 <color=#AC9CFFFF>重收容区域</color>
 <color=#AC9CFFFF>入口区域</color>
 <color=#AC9CFFFF>地表区域</color>
-<color=#FFDD00FF><mspace=1em>〔\U0000F0EB〕</mspace></color> 断电 (<color=#AC9CFFFF>[cost]</color>)
+<color=#FFCC00FF><mspace=1em>〔\U0000F0EB〕</mspace></color> 断电 (<color=#AC9CFFFF>[cost]</color>)
 <color=#FF0000FF><mspace=1em>\U0000F00D</mspace> 此房间无法进行断电 <mspace=1em>\U0000F00D</mspace></color>
 <color=#FFA500FF><mspace=1em>\U0000F071</mspace> 已达到同时断电的数量上限 <mspace=1em>\U0000F071</mspace></color>
 <color=#FFA500FF><mspace=1em>\U0000F071</mspace> 此房间处于断电冷却时间中 <mspace=1em>\U0000F071</mspace></color>
@@ -37,7 +37,7 @@
 <color=#FF0000FF>\U0000F4E2</color>\n<size=70%><mspace=1em>\U0000F071</mspace> 信号丢失 <mspace=1em>\U0000F071</mspace></size>
 正在重新连接 (预计: [time]秒)
 <color=#00FFFFFF><mspace=1em>〔\U0000F0E7〕</mspace></color> 激活特斯拉电网 (<color=#AC9CFFFF>[cost]</color>)
-<color=#FFA500FF><mspace=1em>\U0000F071</mspace> 特斯拉电网激活处于冷却中 <mspace=1em>\U0000F071</mspace></color>
+<color=#00FFFFFF><mspace=1em>\U0000F0E7</mspace> 特斯拉电网激活处于冷却中 <mspace=1em>\U0000F0E7</mspace></color>
 $<mspace=1em>💳</mspace> 访问等级 [tier]$ - <color=#00FF00FF>已解锁 <mspace=1em></mspace></color>
 $<mspace=1em>⚡</mspace> 备用电力$ 上限提高到 $[limit]$.
 $<mspace=1em></mspace> 断电$ 现在可用 - 按下 $[key]$ 键关闭房间内的灯光。
@@ -70,7 +70,7 @@ SCP-079并没有直接攻击或是移动的能力。相对的，你可以靠每�
 <color=#1AD9FFFF>监视者</color>:你独特的视角赋予了你无处不在的能力。你可以标记指定位置，人类，和让你感兴趣的对象，使其帮助你协助杀戮。
 $<mspace=1em></mspace> 入侵扫描器$ 现在可用 - 在$设施地图$中选定阵营/区域后将定期扫描剩余的幸存者。
 <color=#FF0000FF>备用电力恢复已停止 <mspace=1em>\U0000F071</mspace></color>
-<color=#FF4400FF>备用电力恢复已减少([precentage]) <mspace=1em>\U0000F071</mspace></color>
+<color=#FF4400FF>备用电力恢复已减少([precentage]) <mspace=1em>\U0000F06A</mspace></color>
 <color=#FFA500FF>锁定门已激活 <mspace=1em>\U0000F023</mspace></color>
 <color=#FFA500FF>扬声器正在使用中 <mspace=1em>\U0000F0A1</mspace></color>
 <color=#FFA500FF>封锁正在进行中 <mspace=1em>\U0000F05E</mspace></color>

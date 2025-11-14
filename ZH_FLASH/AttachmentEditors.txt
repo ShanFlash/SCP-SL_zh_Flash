@@ -1,9 +1,9 @@
-自定义 \U0001F4DD\r<color=#AC9CFF4D>自定义 \U0001F4DD</color>
-预设 \U0001F4DD#[index]\r<color=#AC9CFF4D>预设 \U0001F4DD#[index]</color>
+自定义 \U0001F4DD
+预设 \U0001F4DD#[index]
 <color=#00CC00FF>保存 \U0000F00C</color>
 [ <color=#CC0000FF>清空配件配置 \U0000F00D</color> ]
-默认配置 \U0001F4DD\r<color=#AC9CFF4D>默认配置 \U0001F4DD</color>
-<size=110%><color=#1AD9FFFF><u>预设方案</u></color></size>
+默认配置 \U0001F4DD
+<color=#1AD9FFFF><u>预设方案</u></color>
 \n<size=250><color=#CC0000FF>\U0000F023</color></size>
 <size=52><color=#CCCCCCFF>[ <color=#0096FFFF>S I T E - 0 2</color> 枪 械 配 置 自 定 义 点 - <color=#CC0000FF>待 机 模 式</color> ]</color></size>\n<size=40>〔 触 碰 屏 幕 以 激 活 工 作 站 〕</size>
 <color=#CCCCCCFF>欢 迎 使 用\n<color=#0096FFFF>S I T E - 0 2</color> 枪 械 配 置 工 作 站</color>
